@@ -130,6 +130,13 @@ Bounty gambar berita harian: aturannya pendek, hasilnya satu file, dan
 deadline-nya jelas. Setelah satu entry masuk, ritme kit → bangun → check →
 submit akan terasa familiar untuk bounty yang lebih besar.
 
+**Bagaimana kalau entry pertama saya ditolak?**
+Baca statusnya: setiap penolakan menyebut pemeriksaan mana yang gagal dan
+cara memperbaikinya. Perbaiki, lalu submit lagi selama deadline belum
+lewat — penolakan bukan akhir, dan kuota submit harian biasanya cukup
+untuk dua-tiga kali percobaan. Entry gambar pertama kami pun masuk lewat
+submit kedua setelah satu fakta kami revisi.
+
 ## Lisensi
 
 Panduan ini berlisensi MIT — silakan disalin dan disesuaikan untuk
